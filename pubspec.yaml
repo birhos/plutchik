@@ -1,6 +1,6 @@
 name: plutchik
 description: Plutchik's Wheel of Emotions
-version: 1.0.0
+version: 1.0.0+1
 homepage: https://github.com/birhos/plutchik
 
 environment:
