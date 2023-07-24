@@ -29,5 +29,5 @@ and the Flutter guide for
 
 |||
 |:--:|:--:|
-![tr](./ss/tr.png)|![en](./ss/en.png)|
+![tr](https://github.com/birhos/plutchik/raw/main/ss/tr.png)|![en](https://github.com/birhos/plutchik/raw/main/ss/en.png)|
 
